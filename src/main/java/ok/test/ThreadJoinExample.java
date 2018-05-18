@@ -1,4 +1,4 @@
-package test;
+package ok.test;
 
 /**
  * Created by admin on 12.06.2016.

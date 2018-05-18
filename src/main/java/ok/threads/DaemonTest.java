@@ -1,4 +1,4 @@
-package threads;
+package ok.threads;
 
 
 public class DaemonTest {

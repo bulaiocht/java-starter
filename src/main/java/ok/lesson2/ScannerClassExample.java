@@ -1,4 +1,4 @@
-package lesson2;
+package ok.lesson2;
 
 import java.util.Locale;
 import java.util.Scanner;

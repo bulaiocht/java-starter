@@ -1,4 +1,4 @@
-package lesson12;
+package ok.lesson12;
 
 public class Factorial {
 

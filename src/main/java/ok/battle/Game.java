@@ -1,4 +1,4 @@
-package battle;
+package ok.battle;
 
 
 public class Game {
@@ -28,23 +28,23 @@ public class Game {
         Fireball fireball = new Fireball();
         fireball.setSpellDamage(7);
 
-        Character mage = new Mage();
+        java.lang.Character mage = new Mage();
         mage.setCharacterName("Harry Potter");
         mage.setLife(characterLife);
         mage.setCharacterWeapon(staff);
         mage.setCharacterSpell(fireball);
 
-        Character archer = new Archer();
+        java.lang.Character archer = new Archer();
         archer.setCharacterName("Legolas");
         archer.setLife(characterLife);
         archer.setCharacterWeapon(bow);
 
-        Character warrior = new Warrior();
+        java.lang.Character warrior = new Warrior();
         warrior.setCharacterName("Hercules");
         warrior.setLife(characterLife);
         warrior.setCharacterWeapon(sword);
 
-        Character warrior1 = new Warrior();
+        java.lang.Character warrior1 = new Warrior();
         warrior1.setCharacterName("Aragorn");
         warrior1.setLife(characterLife);
         warrior1.setCharacterWeapon(sword);
@@ -55,7 +55,7 @@ public class Game {
         mage1.setCharacterWeapon(staff);
         mage1.setCharacterSpell(fireball);*/
 
-        Character archer1 = new Archer();
+        java.lang.Character archer1 = new Archer();
         archer1.setCharacterName("Robin Good");
         archer1.setLife(characterLife);
         archer1.setCharacterWeapon(bow);

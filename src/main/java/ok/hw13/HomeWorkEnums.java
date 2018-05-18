@@ -1,4 +1,4 @@
-package hw13;
+package ok.hw13;
 
 import java.util.Scanner;
 

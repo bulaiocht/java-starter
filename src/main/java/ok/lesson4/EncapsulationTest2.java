@@ -1,7 +1,7 @@
-package lesson4;
+package ok.lesson4;
 
 
-import lesson5.Encapsulation;
+import ok.lesson5.Encapsulation;
 
 public class EncapsulationTest2{
 

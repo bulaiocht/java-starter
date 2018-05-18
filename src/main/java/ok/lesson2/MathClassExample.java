@@ -1,4 +1,4 @@
-package lesson2;
+package ok.lesson2;
 
 
 public class MathClassExample {

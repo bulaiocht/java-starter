@@ -1,4 +1,4 @@
-package threads;
+package ok.threads;
 
 /**
  * Created by admin on 18.05.2016.

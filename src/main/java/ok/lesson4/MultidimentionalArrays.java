@@ -1,4 +1,4 @@
-package lesson4;
+package ok.lesson4;
 
 /**
  * Created by admin on 12.10.2016.

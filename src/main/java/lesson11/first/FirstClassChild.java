@@ -1,4 +1,4 @@
-package main.java.lesson11.first;
+package lesson11.first;
 
 import lesson11.first.FirstClass;
 

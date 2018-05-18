@@ -1,4 +1,4 @@
-package test;
+package ok.test;
 
 
 import java.util.Date;

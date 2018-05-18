@@ -1,4 +1,4 @@
-package battle;
+package ok.battle;
 
 
 public class Fireball extends Spell {

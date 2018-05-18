@@ -1,4 +1,4 @@
-package main.java.lesson11.constructor;
+package lesson11.constructor;
 
 public class Child extends Parent {
 

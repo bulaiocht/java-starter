@@ -1,4 +1,4 @@
-package lesson1;
+package ok.lesson1;
 
 //http://docs.robovm.com/
 //https://software.intel.com/en-us/multi-os-engine/

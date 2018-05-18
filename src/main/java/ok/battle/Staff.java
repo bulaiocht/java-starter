@@ -1,4 +1,4 @@
-package battle;
+package ok.battle;
 
 
 public class Staff extends Weapon {

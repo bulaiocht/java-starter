@@ -1,4 +1,4 @@
-package lesson8;
+package ok.lesson8;
 
 
 public abstract class Pult {

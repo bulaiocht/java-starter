@@ -1,4 +1,4 @@
-package lesson9.test;
+package ok.lesson9.test;
 
 /**
  * Created by admin on 13.03.2017.

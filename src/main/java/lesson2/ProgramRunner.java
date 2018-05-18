@@ -1,4 +1,4 @@
-package main.java.lesson2;
+package lesson2;
 
 /**
  * Created by Hillel Teacher on 14.04.2018.

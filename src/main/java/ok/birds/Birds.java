@@ -1,6 +1,6 @@
-package birds;
+package ok.birds;
 
-import lesson5.Animal;
+import ok.lesson5.Animal;
 
 public class Birds extends Animal {
 

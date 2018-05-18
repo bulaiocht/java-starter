@@ -1,4 +1,4 @@
-package homelesson;
+package ok.homelesson;
 
 public class Zadacha {
     public static void main(String[] args) {

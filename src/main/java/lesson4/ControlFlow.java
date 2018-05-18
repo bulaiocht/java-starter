@@ -1,4 +1,4 @@
-package main.java.lesson4;
+package lesson4;
 
 import lesson2.ProgramRunner;
 

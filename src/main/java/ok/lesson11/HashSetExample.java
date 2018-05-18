@@ -1,4 +1,6 @@
-package lesson11;
+package ok.lesson11;
+
+import lesson11.Student;
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -26,9 +28,9 @@ public class HashSetExample {
 
         System.out.println(integerSet.add(9));
 
-        Student student1 = new Student();
-        Student student2 = new Student();
-        Student student3 = new Student();
+        lesson11.Student student1 = new lesson11.Student();
+        lesson11.Student student2 = new lesson11.Student();
+        lesson11.Student student3 = new lesson11.Student();
 
         student1.setName("Ivan");
         student1.setSecondName("Ivanovich");
@@ -42,7 +44,7 @@ public class HashSetExample {
         student3.setSecondName("Maksimovich");
         student3.setAge(18);
 
-        Set<Student> students = new HashSet<>();
+        Set<lesson11.Student> students = new HashSet<>();
         students.add(student1);
         students.add(student2);
         students.add(student3);

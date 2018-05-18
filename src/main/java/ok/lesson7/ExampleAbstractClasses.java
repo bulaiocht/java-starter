@@ -1,4 +1,4 @@
-package lesson7;
+package ok.lesson7;
 
 public  abstract class ExampleAbstractClasses {
 

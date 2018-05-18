@@ -1,4 +1,4 @@
-package lesson10;
+package ok.lesson10;
 
 import javax.sql.rowset.serial.SQLInputImpl;
 import java.io.*;

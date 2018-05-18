@@ -1,4 +1,4 @@
-package lesson5;
+package ok.lesson5;
 
 
 public class DomesticMouse extends Mouse{

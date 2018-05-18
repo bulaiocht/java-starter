@@ -1,4 +1,4 @@
-package main.java.lesson11.first;
+package lesson11.first;
 
 public class FirstModifierChecker {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lesson10;
+package ok.lesson10;
 
 import java.io.FileNotFoundException;
 

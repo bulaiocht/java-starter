@@ -1,4 +1,4 @@
-package birds;
+package ok.birds;
 
 public class BirdsTest{
 

@@ -1,4 +1,4 @@
-package lesson10;
+package ok.lesson10;
 
 
 public class MyException extends Exception{

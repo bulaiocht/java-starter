@@ -1,4 +1,4 @@
-package battle;
+package ok.battle;
 
 public class Sword extends Weapon {
 

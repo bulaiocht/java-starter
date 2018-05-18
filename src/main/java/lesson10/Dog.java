@@ -1,4 +1,4 @@
-package main.java.lesson10;
+package lesson10;
 
 public class Dog {
 

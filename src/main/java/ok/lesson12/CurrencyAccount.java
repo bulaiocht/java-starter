@@ -1,4 +1,4 @@
-package lesson12;
+package ok.lesson12;
 
 import java.util.Currency;
 import java.util.Locale;

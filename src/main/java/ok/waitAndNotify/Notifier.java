@@ -1,4 +1,4 @@
-package waitAndNotify;
+package ok.waitAndNotify;
 
 
 public class Notifier implements Runnable {

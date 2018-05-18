@@ -1,4 +1,4 @@
-package main.java.lesson7;
+package lesson7;
 
 import java.util.Arrays;
 import java.util.Random;

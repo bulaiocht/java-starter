@@ -1,4 +1,4 @@
-package lesson5;
+package ok.lesson5;
 
 //Родительский класс
 public class Animal {

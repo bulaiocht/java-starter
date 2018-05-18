@@ -1,4 +1,4 @@
-package lesson15;
+package ok.lesson15;
 
 
 public class RunnableExample implements Runnable {

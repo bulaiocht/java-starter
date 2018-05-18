@@ -1,4 +1,4 @@
-package test;
+package ok.test;
 
 public class TESLA extends Cars {
 

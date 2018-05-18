@@ -1,4 +1,4 @@
-package lesson1;
+package ok.lesson1;
 
 
 public class TernaryOperator {

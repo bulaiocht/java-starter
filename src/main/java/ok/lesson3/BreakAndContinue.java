@@ -1,4 +1,4 @@
-package lesson3;
+package ok.lesson3;
 
 public class BreakAndContinue {
 

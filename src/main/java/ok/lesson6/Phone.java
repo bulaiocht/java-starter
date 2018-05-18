@@ -1,4 +1,4 @@
-package lesson6;
+package ok.lesson6;
 
 public class Phone {
 

@@ -1,4 +1,4 @@
-package lesson7;
+package ok.lesson7;
 
 public class RealizationOfFirstVariable extends ExampleAbstractClasses {
 
@@ -10,7 +10,7 @@ public class RealizationOfFirstVariable extends ExampleAbstractClasses {
         for (int i = 0; i < args.length; i++)
             sum += args[i];
 
-        ExampleAbstractClasses.first = (double) sum / args.length;
+        first = (double) sum / args.length;
 
     }
 

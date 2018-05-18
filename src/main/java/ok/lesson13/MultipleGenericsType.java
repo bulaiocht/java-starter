@@ -1,4 +1,4 @@
-package lesson13;
+package ok.lesson13;
 
 
 public class MultipleGenericsType<T, X> {

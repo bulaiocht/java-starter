@@ -1,4 +1,4 @@
-package battle;
+package ok.battle;
 
 public abstract class Armor {
 
