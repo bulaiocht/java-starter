@@ -1,54 +1,84 @@
-package lesson11;
-
+package main.java.lesson11;
 
 public class Student {
 
+    private double IQ;
+
     private String name;
-    private String secondName;
-    private Integer age;
+
+    private String lastName;
+
+    private double age;
+
+    Student(){
+    }
+
+    Student(int IQ, String name, String lastName, int age){
+
+        this.IQ = IQ;
+
+        this.name = name;
+
+        this.lastName = lastName;
+
+        this.age = age;
+    }
+
+    public int getIQ() {
+        return (int)IQ;
+    }
+
+    public Student setIQ(int IQ) {
+        this.IQ = IQ;
+        return this;
+    }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
+    public Student setName(String name) {
         this.name = name;
+        return this;
     }
 
-    public String getSecondName() {
-        return secondName;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setSecondName(String secondName) {
-        this.secondName = secondName;
+    public Student setLastName(String lastName) {
+        this.lastName = lastName;
+        return this;
     }
 
-    public Integer getAge() {
-        return age;
+    public int getAge() {
+        return (int)age;
     }
 
-    public void setAge(Integer age) {
-        this.age = age;
+    public Student setAge(double age) {
+        if (age>=6){
+            this.age = age;
+        }
+        return this;
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-
-        Student student = (Student) o;
-
-        if (name != null ? !name.equals(student.name) : student.name != null) return false;
-        if (secondName != null ? !secondName.equals(student.secondName) : student.secondName != null) return false;
-        return age != null ? age.equals(student.age) : student.age == null;
+    public String toString(){
+        return "Student{IQ= " + IQ + ", name= " + name + ", lastName=" + lastName + ", age=" + age +"}";
     }
 
-    @Override
-    public int hashCode() {
-        int result = name != null ? name.hashCode() : 0;
-        result = 31 * result + (secondName != null ? secondName.hashCode() : 0);
-        result = 31 * result + (age != null ? age.hashCode() : 0);
-        return result;
+    public Student chain(){
+        return this;
     }
-
 }
+
+
+
+
+
+
+
+
+
+
+
+

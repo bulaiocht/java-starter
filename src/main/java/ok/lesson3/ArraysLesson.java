@@ -140,14 +140,14 @@ public class ArraysLesson {
             System.out.print(" [ " + newTestArray [i] + " ] ");
         }
 
-        // Write elements from old array into new array
+        // Write elements from ok array into new array
         for (int i = 0; i < mass.length ; i++) {
             newTestArray [i] = mass[i];
         }
         System.out.println();
 
         //Output result
-        System.out.print("Result of old elements in new array: ");
+        System.out.print("Result of ok elements in new array: ");
 
         for (int i = 0; i <newTestArray .length ; i++) {
             System.out.print(" [ " + newTestArray [i] + " ] ");
