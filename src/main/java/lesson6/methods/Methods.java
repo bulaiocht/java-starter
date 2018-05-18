@@ -1,4 +1,4 @@
-package lesson6;
+package lesson6.methods;
 
 /**
  * Created by Hillel Teacher on 22.04.2018.

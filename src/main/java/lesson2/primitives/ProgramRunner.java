@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2.primitives;
 
 /**
  * Created by Hillel Teacher on 14.04.2018.

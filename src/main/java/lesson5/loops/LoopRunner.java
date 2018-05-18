@@ -1,4 +1,4 @@
-package lesson5;
+package lesson5.loops;
 
 /**
  * Created by Hillel Teacher on 21.04.2018.

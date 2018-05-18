@@ -1,6 +1,6 @@
 package ok.lesson11;
 
-import lesson11.Student;
+import lesson11.inheritance.Student;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,9 +22,9 @@ public class ArrayListExample {
         Integer int4 = 8;
         Integer int5 = 1;
 
-        lesson11.Student student1 = new lesson11.Student();
-        lesson11.Student student2 = new lesson11.Student();
-        lesson11.Student student3 = new lesson11.Student();
+        Student student1 = new Student();
+        Student student2 = new Student();
+        Student student3 = new Student();
 
         List<String> stringList = new ArrayList<>();
         stringList.add(str1);
@@ -42,7 +42,7 @@ public class ArrayListExample {
         integerList.add(int4);
         integerList.add(int5);
 
-        List<lesson11.Student> students = new ArrayList<>();
+        List<Student> students = new ArrayList<>();
         students.add(student1);
         students.add(student2);
         students.add(student3);

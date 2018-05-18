@@ -1,8 +1,5 @@
-package lesson4;
+package lesson4.controlflow;
 
-import lesson2.ProgramRunner;
-
-import java.math.BigDecimal;
 import java.util.Calendar;
 
 public class ControlFlow {

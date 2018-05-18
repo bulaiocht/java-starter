@@ -1,4 +1,4 @@
-package lesson8;
+package lesson8.algorythms;
 
 import java.util.Arrays;
 
