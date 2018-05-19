@@ -10,7 +10,7 @@ public class Battle {
      * @param first
      * @param second
      */
-    public static void start(java.lang.Character first, java.lang.Character second) {
+    public static void start(Character first, Character second) {
 
 
         System.out.println(first.getCharacterName() + " has " + first.getLife() + " of life.");

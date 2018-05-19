@@ -1,11 +1,11 @@
 package ok.battle;
 
 
-public class Archer extends java.lang.Character {
+public class Archer extends Character {
 
 
     @Override
-    public void attack(java.lang.Character character) {
+    public void attack(Character character) {
 
         if (character instanceof Warrior && this.getCharacterWeapon().getRandomDamage() == 5){
 
@@ -23,7 +23,7 @@ public class Archer extends java.lang.Character {
 
     }
 
-    public void archerAttack(java.lang.Character character){
+    public void archerAttack(Character character){
         character.life = character.life - this.getCharacterWeapon().getRandomDamage();
         System.out.println(character.name + " now has  " + character.life);
     }

@@ -1,10 +1,10 @@
 package ok.battle;
 
 
-public class Warrior extends java.lang.Character {
+public class Warrior extends Character {
 
     @Override
-    public void attack(java.lang.Character character) {
+    public void attack(Character character) {
 
         if (character instanceof Warrior && this.getCharacterWeapon().getRandomDamage() == 5){
 

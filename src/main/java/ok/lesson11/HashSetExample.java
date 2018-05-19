@@ -1,7 +1,5 @@
 package ok.lesson11;
 
-import lesson11.inheritance.Student;
-
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;

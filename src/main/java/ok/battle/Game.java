@@ -28,23 +28,23 @@ public class Game {
         Fireball fireball = new Fireball();
         fireball.setSpellDamage(7);
 
-        java.lang.Character mage = new Mage();
+        Character mage = new Mage();
         mage.setCharacterName("Harry Potter");
         mage.setLife(characterLife);
         mage.setCharacterWeapon(staff);
         mage.setCharacterSpell(fireball);
 
-        java.lang.Character archer = new Archer();
+        Character archer = new Archer();
         archer.setCharacterName("Legolas");
         archer.setLife(characterLife);
         archer.setCharacterWeapon(bow);
 
-        java.lang.Character warrior = new Warrior();
+        Character warrior = new Warrior();
         warrior.setCharacterName("Hercules");
         warrior.setLife(characterLife);
         warrior.setCharacterWeapon(sword);
 
-        java.lang.Character warrior1 = new Warrior();
+        Character warrior1 = new Warrior();
         warrior1.setCharacterName("Aragorn");
         warrior1.setLife(characterLife);
         warrior1.setCharacterWeapon(sword);
@@ -55,7 +55,7 @@ public class Game {
         mage1.setCharacterWeapon(staff);
         mage1.setCharacterSpell(fireball);*/
 
-        java.lang.Character archer1 = new Archer();
+        Character archer1 = new Archer();
         archer1.setCharacterName("Robin Good");
         archer1.setLife(characterLife);
         archer1.setCharacterWeapon(bow);

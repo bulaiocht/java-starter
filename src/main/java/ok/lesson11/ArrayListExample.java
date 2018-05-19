@@ -1,7 +1,5 @@
 package ok.lesson11;
 
-import lesson11.inheritance.Student;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TreeSet;
