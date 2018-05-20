@@ -5,7 +5,7 @@ public class StaticsRunner {
     public static void main(String[] args) {
 
 //        int number = Statics.number;
-//        Statics.staticMethod();
+//        Statics.greet();
 //        Bicycle bicycle1 = new Bicycle();
 //        Bicycle bicycle2 = new Bicycle();
 //        Bicycle bicycle3 = new Bicycle();
@@ -17,6 +17,7 @@ public class StaticsRunner {
 //        System.out.println("The number of bicycles is: " + Bicycle.getNumberOfBicycles());
 
         double pi = Statics.PI;
+        Statics.staticMethod();
 
 //        final Bicycle finalBicycle = new Bicycle();
 //
