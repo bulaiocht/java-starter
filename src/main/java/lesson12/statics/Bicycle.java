@@ -6,7 +6,6 @@ public class Bicycle {
 
     private int instanceField = 3;
 
-
     {
         instanceField = 75;
     }

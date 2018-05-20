@@ -24,5 +24,4 @@ public class InitOrder {
         System.out.println("Static field after: " + staticField);
     }
 
-
 }
